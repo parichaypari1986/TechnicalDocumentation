@@ -1,4 +1,4 @@
-# TechnicalDocumentation.html
+# TechnicalDocumentation
 HTML code for TechnicalDocumentation page
 
 
